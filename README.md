@@ -1,6 +1,7 @@
 # polyp-seg-idiot-dev-original
 
 Source: https://idiotdeveloper.com/polyp-segmentation-using-unet-in-tensorflow-2/ <br>
+Location on gdrive: https://drive.google.com/drive/folders/1fD49N_-VootyykB3v3CN-TWWaUzLC0C7 <br>
 
 On this repo is a little bit modified version of the above code so it works on my machine. <br>
 
